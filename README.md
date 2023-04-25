@@ -1,1 +1,1 @@
-# Leetcode-Easy-
+EASY  LEETCODE 
