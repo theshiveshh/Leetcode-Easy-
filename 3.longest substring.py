@@ -1,4 +1,5 @@
  class Solution:
+		
    def longestPalindrome(self, s):
         longest_palindrom = ''
         dp = [[0]*len(s) for _ in range(len(s))]
